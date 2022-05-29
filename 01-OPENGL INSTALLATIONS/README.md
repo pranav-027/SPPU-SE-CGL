@@ -63,6 +63,7 @@ OpenGL extensions:
     gedit main.c
     ```
     * sample program:
+    
      ```c
 	#include<stdio.h>
     #include<GL/glut.h>
@@ -113,7 +114,6 @@ OpenGL extensions:
   
     ```
      g++ main.c -lglut -lGL -lGLEW -lGLU -o output
-
     ```
   * Run the program
 
