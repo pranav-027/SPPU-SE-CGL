@@ -1,6 +1,7 @@
 # SPPU-SE-CGL
 ## Assingment list
----
+
+
 1. Install and explore the OpenGL
    
 2. Implement DDA and Bresenham line drawing algorithm to draw: i) Simple Line ii) Dotted Line 
